@@ -145,27 +145,7 @@ The notebook compares:
 * Seaborn
 * Scikit-learn
 * Imbalanced-learn
-* XGBoost
-
-## How to Run the Project in Colab
-
-1. Open Google Colab
-2. Upload `customer_churn_prediction_colab.ipynb`
-3. Run the first cell to install required packages
-4. Upload `telecom_churn_data.csv` when prompted
-5. Run all notebook cells in order
-6. Check model evaluation results and final comparison table
-
-## Expected Output
-
-After running the notebook, you will get:
-
-* cleaned dataset processing
-* EDA plots
-* comparison of multiple churn prediction models
-* best-performing model
-* tuned model results
-* business insights for churn reduction
+* XGBoos
 
 ## Business Insights
 
